@@ -7,5 +7,5 @@
 - 🌱 树莓派的话...就研究了一点，真的就一点
 - 👯 朋友的话，🤭当然还是有的
 - 💬 想看我的简介?来来来到这:[我的介绍](https://blog.slqwq.cn/about)
-- 📫 想看花里胡哨的东西?来来来，我的[个人主页](https://slqwq.cn/)和[博客](https://blog.slqwq.cn]都很花里胡哨，哦对了，差点忘了那个[奇怪的东西](https://mbdf-css.js.org)
+- 📫 想看花里胡哨的东西?来来来，我的[个人主页](https://slqwq.cn/)和[博客](https://blog.slqwq.cn)都很花里胡哨，哦对了，差点忘了那个[奇怪的东西](https://mbdf-css.js.org)
 - ⚡ 想要和我一起<s>开车</s>van♂?，这是我的QQ:3356620252
