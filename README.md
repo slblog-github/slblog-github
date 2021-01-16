@@ -12,3 +12,12 @@
 - 🐷 <s>本人熟悉Node.js、JavaScript、Java、HTML、CSS的拼写</s>
 - 😱 本人另一个<s>开车</s>GitHub账号:[Open-super](https://github.com/Open-super)
 
+-------------------------------------------------------------------我的GitHub状况--------------------------------------------------------------------
+1.当前帐号
+![](https://github-readme-stats.vercel.app/api?username=slblog-github)
+--------------------------------------------------------------------
+2.Open-super
+![](https://github-readme-stats.vercel.app/api?username=Open-super)
+--------------------------------------------------------------------
+3.glahajeekn
+![](https://github-readme-stats.vercel.app/api?username=glahajeekn)
