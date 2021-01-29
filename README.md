@@ -11,7 +11,9 @@
 - ⚡ 想要和我一起<s>开车</s>van♂?，这是我的QQ:3356620252
 - 🐷 <s>本人熟悉Node.js、JavaScript、Java、HTML、CSS的拼写</s>
 - 😱 本人另一个<s>开车</s>GitHub账号:[Open-super](https://github.com/Open-super)
-- 🥧 本人喜欢听 The Silent Ones 歌手: Varien
+- 🥧 本人喜欢听 [The Silent Ones](https://y.qq.com/n/yqq/song/002eg4bE1diPP4.html) 歌手: Varien
+
+<audio src="https://ws.stream.qqmusic.qq.com/C400001bZ2pI1FqEXx.m4a?guid=1412927118&vkey=ADF2516EA056C130C4B22C422DA20DCCE8C8F73E55DDA042E4FA9EFF91BB9414F9B8A90A6D6257A9DA38ADFEA175A75496E3296161C79891&uin=3356620252&fromtag=66">
 
 --------------------------------------------------------------------
 
