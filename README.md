@@ -21,13 +21,20 @@
 
 # 1.当前帐号
 ![](https://github-readme-stats.vercel.app/api?username=slblog-github)
+
 ![](https://github-stats.hclonely.com/api/top-langs/?username=slblog-github)
 --------------------------------------------------------------------
 # 2.Open-super
 ![](https://github-readme-stats.vercel.app/api?username=Open-super)
+
 ![](https://github-stats.hclonely.com/api/top-langs/?username=Open-super)
 --------------------------------------------------------------------
 # 3.glahajeekn
 ![](https://github-readme-stats.vercel.app/api?username=glahajeekn)
+
 ![](https://github-stats.hclonely.com/api/top-langs/?username=glahajeekn)
 --------------------------------------------------------------------
+# My <s>shameful</s> game card
+Genshin impact:
+
+![](https://ys.card.api.slqwq.cn/detail/rand/281418041.png)
